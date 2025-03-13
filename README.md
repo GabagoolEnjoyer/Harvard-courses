@@ -1,2 +1,2 @@
 # Harvard-courses
--- SQL and C courses from CS50
+- SQL and C courses from CS50
