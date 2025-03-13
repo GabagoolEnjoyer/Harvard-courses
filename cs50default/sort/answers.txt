@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: the fastest in the sorted numbers.
+
+sort2 uses: merge sort
+
+How do you know?: a lot faster than others in 50000 numbers random.
+
+sort3 uses: selection sort
+
+How do you know?: method of exlusion.
